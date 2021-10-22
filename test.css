@@ -1,5 +1,6 @@
 body{
     background-image: url('dark_wood.png');
+    background-blend-mode:color-dodge;
 }
 
 a{
@@ -12,6 +13,13 @@ p{
     font-weight: bold;
     color: white;
     font-family: "Arial";
+    text-decoration:line-through;
+    text-decoration-style: wavy;
+    text-decoration-color: white;
+}
+
+img{
+    filter:blur(50%);
 }
 
 h3{
