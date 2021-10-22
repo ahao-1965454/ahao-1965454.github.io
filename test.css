@@ -16,6 +16,7 @@ li{
 
 #Header{
     border:solid 8px black;
+    width: 500px;
 }
 
 #Header h1{
@@ -24,6 +25,7 @@ li{
 
 #LeftNav{
     border:solid 8px black;
+    width: 400px;
 }
 
 #LeftNav img{
@@ -40,6 +42,7 @@ li{
 
 #Content{
     border:solid 8px black;
+    width: 700px;
 }
 
 #Footer{
