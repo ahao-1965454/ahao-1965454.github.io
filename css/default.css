@@ -1460,8 +1460,8 @@ background-blend-mode: darken; /* Added a blend mode */
     transition: all 0.3s ease-in;
 }
 .contact .contact_bg .send:hover {
-    background-color: #ff7e1d;
-border: #ff7e1d solid 1px;
+    background-color: #ff1d1d; /* Changed send button hover color */
+border: #ff1d1d solid 1px; /* made the border match */
 color: #fff;
 transition: all 0.3s ease-in;
 
