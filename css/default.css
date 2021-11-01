@@ -1413,7 +1413,6 @@ background-blend-mode: darken; /* Added a blend mode */
 }
 .contact .titlepage {
     text-align: center;
-    text-shadow:#e8e8e8; /* Added a text shadow */
 }
 .contact .titlepage h3 {
     padding: 0px 0px 6px 0px;
@@ -1438,7 +1437,7 @@ background-blend-mode: darken; /* Added a blend mode */
     padding: 12px 19px;
     margin-bottom: 26px;
      border-radius: 1px;
-    color: #000;
+    color: rgb(255, 255, 255); /* Changed the color */
     width: 100%;
 }
 .contact .contact_bg .textarea {
